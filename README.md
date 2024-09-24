@@ -101,10 +101,6 @@ We welcome contributions to make Code Sync even better! Whether you're reporting
 
 If you find this helpful or valuable, please consider 🌟 starring the repository. It helps us gain visibility and encourages further development. We appreciate your support!
 
-## 🧾 License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## 🌟 Appreciation for Resources
 
 Special thanks to EMKC for providing the Piston API, enabling code execution. For more information, visit the following links:
@@ -116,28 +112,3 @@ Also, huge gratitude to Tldraw contributors for their amazing library. For more 
 
 -   [Tldraw Repository](https://github.com/tldraw/tldraw)
 -   [Tldraw Documentation](https://tldraw.dev/)
-
-## ✍️ About Developer
-
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top">
-        <img src="https://github.com/sahilatahar.png" width="120px;" alt="Sahil Atahar"/>
-        <br />
-        <b>Sahil Atahar</b>
-      </td>
-    </tr>
-    <tr>
-        <td align="center">
-            <a href="https://github.com/sahilatahar">
-            <img src="https://img.shields.io/badge/GitHub-100000.svg?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-        <br/>
-        <a href="https://linkedin.com/in/sahilatahar">
-            <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-        </a>
-        </td>
-    </tr>
-  </tbody>
-</table>
